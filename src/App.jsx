@@ -1,9 +1,12 @@
 import React from 'react'
+import Header from './Components/Header/Header'
+import Blogs from './Components/Blogs/Blogs'
 
 function App() {
   return (
     <>
-      <h1 className='text-6xl bg-red'>Knowledge cafe</h1>
+    <Header/>
+    <Blogs/>
     </>
   )
 }

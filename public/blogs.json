@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "cover": "https://picsum.photos/seed/book1/300/200",
+    "title": "The Quantum Paradox",
+    "author": "Lena Hart",
+    "authorImg": "https://randomuser.me/api/portraits/women/1.jpg",
+    "date": "2025-05-01",
+    "readTime": 6,
+    "tags": "#science #quantum"
+  },
+  {
+    "id": 2,
+    "cover": "https://picsum.photos/seed/book2/300/200",
+    "title": "Artificial Dawn",
+    "author": "Maxwell Orion",
+    "authorImg": "https://randomuser.me/api/portraits/men/2.jpg",
+    "date": "2025-05-02",
+    "readTime": 8,
+    "tags": "#ai #future"
+  },
+  {
+    "id": 3,
+    "cover": "https://picsum.photos/seed/book3/300/200",
+    "title": "Whispers in the Code",
+    "author": "Sophia Lin",
+    "authorImg": "https://randomuser.me/api/portraits/women/3.jpg",
+    "date": "2025-05-03",
+    "readTime": 5,
+    "tags": "#coding #mystery"
+  },
+  {
+    "id": 4,
+    "cover": "https://picsum.photos/seed/book4/300/200",
+    "title": "Data Dreams",
+    "author": "Ivan Torres",
+    "authorImg": "https://randomuser.me/api/portraits/men/4.jpg",
+    "date": "2025-05-04",
+    "readTime": 7,
+    "tags": "#data #innovation"
+  },
+  {
+    "id": 5,
+    "cover": "https://picsum.photos/seed/book5/300/200",
+    "title": "The Neural Nexus",
+    "author": "Rachel Kim",
+    "authorImg": "https://randomuser.me/api/portraits/women/5.jpg",
+    "date": "2025-05-05",
+    "readTime": 9,
+    "tags": "#neuralnetworks #ai"
+  },
+  {
+    "id": 6,
+    "cover": "https://picsum.photos/seed/book6/300/200",
+    "title": "Algorithmic Hearts",
+    "author": "Ethan Gray",
+    "authorImg": "https://randomuser.me/api/portraits/men/6.jpg",
+    "date": "2025-05-06",
+    "readTime": 4,
+    "tags": "#romance #ai"
+  },
+  {
+    "id": 7,
+    "cover": "https://picsum.photos/seed/book7/300/200",
+    "title": "The Silent Server",
+    "author": "Diana Wells",
+    "authorImg": "https://randomuser.me/api/portraits/women/7.jpg",
+    "date": "2025-05-07",
+    "readTime": 5,
+    "tags": "#servers #tech"
+  },
+  {
+    "id": 8,
+    "cover": "https://picsum.photos/seed/book8/300/200",
+    "title": "Beyond the Firewall",
+    "author": "James Carter",
+    "authorImg": "https://randomuser.me/api/portraits/men/8.jpg",
+    "date": "2025-05-08",
+    "readTime": 6,
+    "tags": "#cybersecurity #hacking"
+  },
+  {
+    "id": 9,
+    "cover": "https://picsum.photos/seed/book9/300/200",
+    "title": "Virtual Mirage",
+    "author": "Emily Stone",
+    "authorImg": "https://randomuser.me/api/portraits/women/9.jpg",
+    "date": "2025-05-09",
+    "readTime": 7,
+    "tags": "#vr #future"
+  },
+  {
+    "id": 10,
+    "cover": "https://picsum.photos/seed/book10/300/200",
+    "title": "Code & Conscience",
+    "author": "Noah Reed",
+    "authorImg": "https://randomuser.me/api/portraits/men/10.jpg",
+    "date": "2025-05-10",
+    "readTime": 8,
+    "tags": "#ethics #coding"
+  },
+  {
+    "id": 11,
+    "cover": "https://picsum.photos/seed/book11/300/200",
+    "title": "Echoes of Silicon",
+    "author": "Zara Ali",
+    "authorImg": "https://randomuser.me/api/portraits/women/11.jpg",
+    "date": "2025-05-11",
+    "readTime": 5,
+    "tags": "#history #tech"
+  },
+  {
+    "id": 12,
+    "cover": "https://picsum.photos/seed/book12/300/200",
+    "title": "The Debug Diaries",
+    "author": "Lucas Miles",
+    "authorImg": "https://randomuser.me/api/portraits/men/12.jpg",
+    "date": "2025-05-12",
+    "readTime": 6,
+    "tags": "#debugging #developerlife"
+  },
+  {
+    "id": 13,
+    "cover": "https://picsum.photos/seed/book13/300/200",
+    "title": "Binary Fate",
+    "author": "Ava Morgan",
+    "authorImg": "https://randomuser.me/api/portraits/women/13.jpg",
+    "date": "2025-05-13",
+    "readTime": 7,
+    "tags": "#binary #destiny"
+  },
+  {
+    "id": 14,
+    "cover": "https://picsum.photos/seed/book14/300/200",
+    "title": "Hack the Sky",
+    "author": "Elijah Brooks",
+    "authorImg": "https://randomuser.me/api/portraits/men/14.jpg",
+    "date": "2025-05-14",
+    "readTime": 9,
+    "tags": "#drone #hacking"
+  },
+  {
+    "id": 15,
+    "cover": "https://picsum.photos/seed/book15/300/200",
+    "title": "Sentient Protocol",
+    "author": "Nina Park",
+    "authorImg": "https://randomuser.me/api/portraits/women/15.jpg",
+    "date": "2025-05-15",
+    "readTime": 6,
+    "tags": "#ai #sentience"
+  },
+  {
+    "id": 16,
+    "cover": "https://picsum.photos/seed/book16/300/200",
+    "title": "Encrypted Souls",
+    "author": "Kai Bennett",
+    "authorImg": "https://randomuser.me/api/portraits/men/16.jpg",
+    "date": "2025-05-16",
+    "readTime": 4,
+    "tags": "#encryption #mystery"
+  },
+  {
+    "id": 17,
+    "cover": "https://picsum.photos/seed/book17/300/200",
+    "title": "404: Love Not Found",
+    "author": "Isla Rivera",
+    "authorImg": "https://randomuser.me/api/portraits/women/17.jpg",
+    "date": "2025-05-17",
+    "readTime": 5,
+    "tags": "#romance #tech"
+  },
+  {
+    "id": 18,
+    "cover": "https://picsum.photos/seed/book18/300/200",
+    "title": "Glitch",
+    "author": "Owen Hayes",
+    "authorImg": "https://randomuser.me/api/portraits/men/18.jpg",
+    "date": "2025-05-18",
+    "readTime": 6,
+    "tags": "#bug #adventure"
+  },
+  {
+    "id": 19,
+    "cover": "https://picsum.photos/seed/book19/300/200",
+    "title": "Cloudwalkers",
+    "author": "Maya Lopez",
+    "authorImg": "https://randomuser.me/api/portraits/women/19.jpg",
+    "date": "2025-05-19",
+    "readTime": 7,
+    "tags": "#cloud #skytech"
+  },
+  {
+    "id": 20,
+    "cover": "https://picsum.photos/seed/book20/300/200",
+    "title": "The Infinite Loop",
+    "author": "Leo Zhang",
+    "authorImg": "https://randomuser.me/api/portraits/men/20.jpg",
+    "date": "2025-05-20",
+    "readTime": 8,
+    "tags": "#loop #infinity"
+  }
+]
