@@ -7,7 +7,7 @@
     "authorImg": "https://randomuser.me/api/portraits/women/1.jpg",
     "date": "May 1",
     "readTime": 6,
-    "tags": "#science #quantum"
+    "tags": ["#science", "#quantum"]
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "authorImg": "https://randomuser.me/api/portraits/men/2.jpg",
     "date": "May 2",
     "readTime": 8,
-    "tags": "#ai #future"
+    "tags": ["#ai", "#future"]
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "authorImg": "https://randomuser.me/api/portraits/women/3.jpg",
     "date": "May 3",
     "readTime": 5,
-    "tags": "#coding #mystery"
+    "tags": ["#coding", "#mystery"]
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "authorImg": "https://randomuser.me/api/portraits/men/4.jpg",
     "date": "May 4",
     "readTime": 7,
-    "tags": "#data #innovation"
+    "tags": ["#data", "#innovation"]
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "authorImg": "https://randomuser.me/api/portraits/women/5.jpg",
     "date": "May 5",
     "readTime": 9,
-    "tags": "#neuralnetworks #ai"
+    "tags": ["#neuralnetworks", "#ai"]
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "authorImg": "https://randomuser.me/api/portraits/men/6.jpg",
     "date": "May 6",
     "readTime": 4,
-    "tags": "#love #technology"
+    "tags": ["#love", "#technology"]
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "authorImg": "https://randomuser.me/api/portraits/women/7.jpg",
     "date": "May 7",
     "readTime": 6,
-    "tags": "#startups #techlife"
+    "tags": ["#startups", "#techlife"]
   },
   {
     "id": 8,
@@ -77,7 +77,7 @@
     "authorImg": "https://randomuser.me/api/portraits/men/8.jpg",
     "date": "May 8",
     "readTime": 7,
-    "tags": "#cybersecurity #networking"
+    "tags": ["#cybersecurity", "#networking"]
   },
   {
     "id": 9,
@@ -87,7 +87,7 @@
     "authorImg": "https://randomuser.me/api/portraits/women/9.jpg",
     "date": "May 9",
     "readTime": 6,
-    "tags": "#vr #psychology"
+    "tags": ["#vr", "#psychology"]
   },
   {
     "id": 10,
@@ -97,7 +97,7 @@
     "authorImg": "https://randomuser.me/api/portraits/men/10.jpg",
     "date": "May 10",
     "readTime": 5,
-    "tags": "#software #spiritual"
+    "tags": ["#software", "#spiritual"]
   },
   {
     "id": 11,
@@ -107,7 +107,7 @@
     "authorImg": "https://randomuser.me/api/portraits/women/11.jpg",
     "date": "May 11",
     "readTime": 9,
-    "tags": "#career #tech"
+    "tags": ["#career", "#tech"]
   },
   {
     "id": 12,
@@ -117,7 +117,7 @@
     "authorImg": "https://randomuser.me/api/portraits/men/12.jpg",
     "date": "May 12",
     "readTime": 4,
-    "tags": "#life #logic"
+    "tags": ["#life", "#logic"]
   },
   {
     "id": 13,
@@ -127,7 +127,7 @@
     "authorImg": "https://randomuser.me/api/portraits/women/13.jpg",
     "date": "May 13",
     "readTime": 6,
-    "tags": "#binary #philosophy"
+    "tags": ["#binary", "#philosophy"]
   },
   {
     "id": 14,
@@ -137,7 +137,7 @@
     "authorImg": "https://randomuser.me/api/portraits/men/14.jpg",
     "date": "May 14",
     "readTime": 8,
-    "tags": "#hacking #inspiration"
+    "tags": ["#hacking", "#inspiration"]
   },
   {
     "id": 15,
@@ -147,7 +147,7 @@
     "authorImg": "https://randomuser.me/api/portraits/women/15.jpg",
     "date": "May 15",
     "readTime": 5,
-    "tags": "#ai #empathy"
+    "tags": ["#ai", "#empathy"]
   },
   {
     "id": 16,
@@ -157,7 +157,7 @@
     "authorImg": "https://randomuser.me/api/portraits/men/16.jpg",
     "date": "May 16",
     "readTime": 7,
-    "tags": "#digital #identity"
+    "tags": ["#digital", "#identity"]
   },
   {
     "id": 17,
@@ -167,7 +167,7 @@
     "authorImg": "https://randomuser.me/api/portraits/women/17.jpg",
     "date": "May 17",
     "readTime": 6,
-    "tags": "#404 #love"
+    "tags": ["#404", "#love"]
   },
   {
     "id": 18,
@@ -177,7 +177,7 @@
     "authorImg": "https://randomuser.me/api/portraits/men/18.jpg",
     "date": "May 18",
     "readTime": 5,
-    "tags": "#glitch #life"
+    "tags": ["#glitch", "#life"]
   },
   {
     "id": 19,
@@ -187,7 +187,7 @@
     "authorImg": "https://randomuser.me/api/portraits/women/19.jpg",
     "date": "May 19",
     "readTime": 7,
-    "tags": "#cloud #calm"
+    "tags": ["#cloud", "#calm"]
   },
   {
     "id": 20,
@@ -197,6 +197,6 @@
     "authorImg": "https://randomuser.me/api/portraits/men/20.jpg",
     "date": "May 20",
     "readTime": 6,
-    "tags": "#romance #tech"
+    "tags": ["#romance", "#tech"]
   }
 ]
